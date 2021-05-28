@@ -1,0 +1,4 @@
+Bucket.o: Bucket.cpp Bucket.h Slot.h
+main.o: main.cpp Hashtable.h Hashtable.cpp Bucket.h Slot.h
+Hashtable.o: Hashtable.cpp Hashtable.h
+Slot.o: Slot.cpp Slot.h

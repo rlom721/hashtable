@@ -1,0 +1,26 @@
+HashTable
+Collision Chain Length Report
+
+      Bucket ID	Collisions
+	Bucket 1	    2
+	Bucket 2	    0
+	Bucket 3	    4
+	Bucket 4	    0
+	Bucket 5	    6
+	Bucket 6	    0
+	Bucket 7	    3
+	Bucket 8	    0
+	Bucket 9	    4
+	Bucket 10	    2
+	Bucket 11	    4
+	Bucket 12	    3
+	Bucket 13	    2
+	Bucket 14	    1
+	Bucket 15	    0
+	Bucket 16	    1
+	Bucket 17	    5
+	Bucket 18	    0
+	Bucket 19	    3
+	Bucket 20	    0
+
+    Avg Collision Length = 3.08
